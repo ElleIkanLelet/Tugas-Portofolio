@@ -212,4 +212,17 @@ body {
     .project-card img {
         height: 180px;
     }
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px solid #f3c1d5;
+}
+
+footer p {
+    color: #999;
+    font-size: 12px;
+    margin: 0;
+}
 }
